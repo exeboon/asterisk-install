@@ -1,0 +1,6 @@
+Asterisk Commands:
+===================
+asterisk -vvvr
+module load chan_sip.so
+reload
+sip show peers
